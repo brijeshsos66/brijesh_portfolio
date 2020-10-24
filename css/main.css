@@ -137,7 +137,7 @@ header {
   color: #eece1a; }
 
 main {
-  padding: 4rem;
+  padding: 10rem;
   min-height: calc(100vh - 60px); }
   main .icons {
     margin-top: 1rem; }
